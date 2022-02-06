@@ -43,6 +43,7 @@ class Psgdpr extends Module
     private $presetMessageAccountCreation = [
         'en' => 'I agree to the terms and conditions and the privacy policy',
         'cb' => 'I agree to the terms and conditions and the privacy policy',
+        'cs' => 'Souhlasím s podmínkami a zásadami ochrany osobních údajů.',
         'es' => 'Acepto las condiciones generales y la política de confidencialidad',
         'ag' => 'Acepto las condiciones generales y la política de confidencialidad',
         'br' => 'Acepto las condiciones generales y la política de confidencialidad',
@@ -60,6 +61,7 @@ class Psgdpr extends Module
     private $presetMessageAccountCustomer = [
         'en' => 'By submitting this form, I accept that the data entered is used by xxxxx so they can (i) acknowledge your request, (ii) replay and, if necessary, (iii) manage the contractual relationship that may result.',
         'cb' => 'By submitting this form, I accept that the data entered is used by xxxxx so they can (i) acknowledge your request, (ii) replay and, if necessary, (iii) manage the contractual relationship that may result.',
+        'cs' => 'Odesláním tohoto formuláře souhlasím s tím, že zadané údaje budou použity společností xxxxx, aby mohla (i) potvrdit vaši žádost, (ii) přehrát a případně (iii) spravovat smluvní vztah, který z toho může vyplynout.',
         'es' => 'Al enviar este formulario, acepto que xxxxx utilice los datos que he facilitado para (i) conocer mi solicitud, (ii) darle respuesta, si fuera el caso, (iii) encargarse de la gestión de la relación contractual que pudiera derivarse de ella.',
         'ag' => 'Al enviar este formulario, acepto que xxxxx utilice los datos que he facilitado para (i) conocer mi solicitud, (ii) darle respuesta, si fuera el caso, (iii) encargarse de la gestión de la relación contractual que pudiera derivarse de ella.',
         'mx' => 'Al enviar este formulario, acepto que xxxxx utilice los datos que he facilitado para (i) conocer mi solicitud, (ii) darle respuesta, si fuera el caso, (iii) encargarse de la gestión de la relación contractual que pudiera derivarse de ella.',
